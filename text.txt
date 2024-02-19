@@ -403,8 +403,8 @@ a) to have a method to adjust the length of voice input timeouts
 b) to have a method of training the system to recognize the user's individual voice 
 c) to have a method to filter out background noises within the speech recognition environment 
 7-2-3 to have acceptable input or interaction attributes specific to the visual modality 
-1) to have a method to adjust the speed of interaction and timing when using visual recognition to indicate the selection action 
-2) to have a method to adjust the size of a visual presentation (e.g. font size) 
+a) to have a method to adjust the speed of interaction and timing when using visual recognition to indicate the selection action 
+b) to have a method to adjust the size of a visual presentation (e.g. font size) 
 7-2-4 to position system components and devices in suitable locations for their use 
 a) to position displays for optimal viewing 
 b) to position input devices to be reachable 
