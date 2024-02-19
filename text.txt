@@ -1,0 +1,540 @@
+** NOTE: The following text is from ISO/IEC 29138-1:2018, Annex B **
+
+1 Suitability for the widest range of users needs 
+1-1 to recognize that they are included as a system user within diverse contexts 
+a) to know that a system is usable by an individual user 
+b) to know how to set the system up to work within a particular context 
+c) to access information on any limitations on a system that might preclude an individual's access 
+d) to have technologies that are accessible on release 
+e) to have new releases of a system not diminish the accessibility provided by previous releases 
+f) to have access to an epub document where a system provides meta-data on functionality of content and interoperability with assistive technology 
+1-2 to have accessible support for using the system 
+a) to have electronic access to copyrighted and otherwise protected support material 
+b) to have a means to provide feedback to the support/development organization about improvements to accessibility to meet an individual’s particular needs 
+c) to obtain a response to feedback submitted (that answers questions or explains what is being done about the problems that have been reported) 
+d) to have product information be disseminated in an accessible format to agencies supporting the individual 
+e) to be able to interact with encrypted media 
+1-3 to have the system accessible to an individual with combinations of needs 
+a) to have the system accessible to an individual with multiple physical needs 
+b) to have the system accessible to an individual with multiple cognitive needs 
+c) to have the system accessible to an individual in multiple environmental conditions 
+d) to have the system accessible by an individual with multiple physical, sensory or cognitive needs or any combination of these 
+2 Conformity with user expectations needs 
+2-1 to not be surprised by the results of interactions with the system 
+a) to have consistent and predictable user interfaces 
+b) to have content appear and behave in predictable ways 
+c) to have options presented be meaningful and appropriate 
+d) to have the form of feedback be predictable 
+e) to have keyboard navigation that follows a meaningful sequence through form controls 
+f) to have location and layout of controls be consistent 
+g) to have each function on its own key rather than having keys change their functions but look/feel the same 
+h) to have systems use standard conventions, words and symbols for the user's culture 
+2-2 to apply personal knowledge and experience to interact successfully with the system 
+a) to have content and interactions consistent with similar systems and experiences 
+b) to have controls in similar systems be located in similar places 
+2-3 to receive instruction or training directed at preparing users for new knowledge needed to interact successfully with the system 
+a) to have accessible training and support materials 
+b) to have operating manuals updated in line with changes to products or procedures 
+2-4 to obtain immediate and easily accessible help or further instructions, where such help can be provided by the system 
+a) to have timely access to trained customer service personnel (e.g. helpdesk) 
+b) to have information describing the layout of the operational parts 
+c) to have a recognised mechanism (e.g. a help key or a phone menu using "0") that provides detailed help on the interaction in the context the user is in (what to press next) 
+d) to have a means to find out more information about the current state of the system (e.g. context sensitive help or tooltips) 
+e) to have a means to easily get human help 
+f) to use symbolism that helps the user to understand the interface and possible interactions 
+g) to have mechanisms (e.g. graphs and pictures) that summarize and supplement text so a user can understand the point without a lot of reading 
+h) to have speech support with synchronized highlighting so a user can follow with rapid feedback 
+i) to have reminders of appointments to be able to know when to do thing 
+3 Support for individualization needs 
+3-1 to be provided with (and to choose) the way of interacting with a system that best works for them (including activating and deactivating built-in accessibility features) 
+a) to choose modalities to be used for inputs to the system 
+b) to choose modalities to be used for system outputs 
+c) to have applications not override or defeat built-in accessibility features 
+d) to have accessibility functions that can be returned to an initial state individually or together 
+e) to activate or deactivate individualization features 
+f) to perform, undo, and redo individualization actions 
+3-2 to choose between the available input/output modalities and their configuration without requiring restart of the system 
+a) not having to restart the system to activate an accessibility modality 
+b) not being required to close or save operations before activating an accessibility modality 
+c) to have the system support choosing between simultaneous modalities without disruption of the task in progress 
+3-3 to have simultaneous use of alternate interaction modalities 
+a) to have the system to support the user in choosing between simultaneous modalities 
+b) to be provided with audio descriptions for visual content and captioning simultaneously 
+c) to be provided with transcripts for audio and video which support synchronised highlighted text sections or words 
+3-4 to be provided with information on available options for interacting with a system on which to base a choice of interaction methods 
+a) to have information on the availability of individualization capabilities 
+b) to have information on individualization actions taken by the system 
+c) to have default settings that can be used as is 
+d) to be able to find a specific accessibility setting and activate it 
+e) to be provided with a summary of accessibility features available 
+f) to operate vocal commands with an impaired voice simultaneously to imprecise gestural command, to benefit from the mixing of both 
+3-5 to be provided an accessible means to choose individualization features 
+a) to control whether or not specific system-initiated actions can occur automatically 
+b) to have a first step of interaction that enables user to choose between individualization features 
+3-6 to have individualization features maintained for future uses of the system, until changed by the user 
+a) to have system level accessibility preference settings that apply across applications 
+b) to have accessibility preference settings preserved unless explicitly changed 
+c) to have preference settings change immediately preferably without requiring system reboot 
+d) to save and restore individual preference settings 
+e) to revert to default settings 
+3-7 to have the system use complete standardized sets of needs or preferences from specific standards 
+a) to have the system provide individualization options based on one or more sets of needs or preferences from a recognized set of preference definitions 
+b) to have the system provide additional individualization options beyond those corresponding to sets of needs or preferences that it also supports 
+3-8 to take or give up control of functions that could be performed by either the user or the system 
+a) have a text entry system with built-in word prediction that sometimes incorrectly guesses and be easily enabled or disabled 
+b) to have a speech recognition system adapt to a user’s changing speech capabilities over time 
+c) to have a speech recognition system adapt to a user’s changing speech capabilities over time 
+d) to have a system be able to adapt to speed of text entry in a web form 
+3-9 to have the option to use the system with a minimum of setup or configuration 
+a) to have a system maximise the number of automatic processes on initial set with a user 
+b) to have a system store configuration settings for a specific user in a specific context so that they do not have to be revisited on system restart 
+4 Approachability needs 
+4-1 to have the system free from any physical barriers 
+a) to have adequate room to fit themselves and their assistive products or assistive technology 
+b) to have an accessible path and a means to position oneself within reach of installed products 
+c) to have system controls located within close reach 
+d) to have information displayed within an individual's viewing range 
+e) to have controls displayed within an individual's viewing range 
+f) to be able to adjust the location and position of devices and controls 
+4-2 to have the system free from any psychological barriers 
+a) to use products without the fear of negative consequences if mistakes are made 
+4-3 to have the system maintain the user's attention 
+a) to have even small successes acknowledged to increase self-esteem 
+b) to receive information regarding the progress of completing a task 
+c) to receive encouragement that the user is progressing with a task 
+d) to receive prompts identifying the appropriate next step to perform for a task 
+e) to receive periodic reminders of the goal being worked on and its value 
+f) to have the complexity or difficulty set at a level which is challenging and motivating but not discouraging 
+g) to have assistance in coping with their emotional reactions to using the system 
+4-4 to have interaction options clearly presented 
+a) to have keyboard and dictation symbols clearly displayed 
+4-5 to have appropriate levels of privacy and security 
+a) to have products that maintain the user's privacy 
+b) to have appropriate levels of safety 
+c) to have systems in which hazards are obvious, easy to avoid, and difficult to trigger 
+d) to have systems that do not rely on specific senses to avoid injury 
+e) to have systems that do not rely on fine movement to avoid injury 
+f) to have systems which do not cause fatigue or discomfort in use 
+g) to have systems which do not give off inappropriate electromagnetic radiation 
+h) to have systems that do not give off chemicals which are allergenic to an individual 
+i) to use system safely without needing or experiencing hazards warnings 
+j) to use systems safely without seeing hazard warnings 
+k) to use systems safely without hearing hazard warnings 
+4-6 to avoid patterns that cause psychological or physical discomfort or disturbance 
+a) to avoid visual patterns that cause seizures 
+b) to avoid auditory patterns that cause seizures 
+4-7 to use the system remotely as well as directly 
+a) to use software to control hardware operations, wherever possible 
+4-8 to have the system free from environmental barriers 
+a) to avoid patterns that cause seizures 
+5 Perceivability needs 
+5-1 to use a specific sensory modality (or a set of specific modalities) to perceive information 
+5-1-1 to have information presented visually 
+a) to have all information presented visually 
+b) to have some information presented visually 
+5-1-2 to have visual information available in other modalities 
+a) to have visual content also available in audio form 
+b) to have visual interaction cues also available in audio form 
+c) to have visual content also available in tactile form 
+d) to have visual controls, such as buttons, also available in tactile form 
+e) to have visual interaction cues also available in tactile form 
+5-1-3 to have information presented in auditory form 
+a) to have all information presented in auditory form 
+b) to have some information presented in auditory form 
+c) to have any textual information presented in auditory form 
+5-1-4 to have audio information available in other modalities 
+a) to have audio content also available in visual form 
+b) to have audio interaction cues also available in visual form 
+c) to have audio content also available in tactile form 
+d) to have audio interaction cues also available in tactile form 
+5-1-5 to have information presented in tactile form 
+a) to have all information presented tactilely 
+b) to have some information presented tactilely 
+c) to have information presented in tactile form 
+d) to have feedback and cues be tactile 
+5-1-6 to have tactile information available in other modalities 
+a) to have tactile information also available in visual form 
+b) to have tactile information also available in audio form 
+5-1-7 to experience information via multiple simultaneous modalities 
+a) to have simultaneous visual and audio information 
+b) to have simultaneous tactile and audio information 
+c) to have simultaneous visual and tactile information 
+d) to have simultaneous visual, audio, and tactile information 
+5-2 to have presentation attributes of a modality that match an individual's needs 
+5-2-1 to have presentation attributes specific to the visual modality that match an individual's needs 
+a) to have all visual information presented visually in text form 
+b) to have sufficient brightness for visually presented information 
+c) to have information that is presented through colour also be presented in a way that does not rely on colour 
+d) to have foreground colours sufficiently contrast with background colours 
+e) to have sufficient contrast between colours 
+f) to have the magnification of objects or visible content that match an individual's needs 
+g) to have dynamic images presented at a speed sufficient to be perceived 
+h) to have visual information presented in an alternative to text 
+i) to have feedback and cues using pictures or symbols 
+j) to have enhanced focus and pointing indicators 
+k) to have enhanced visual feedback 
+l) to have enhanced visual indicators 
+5-2-2 to have manageable textual material 
+a) to have text that can be resized 
+b) to have text presented in a font and style that matches an individual's needs 
+c) to have text contrasted with background 
+d) to have coherent word-wrap and paging, even with magnified text 
+e) to have simplified text 
+5-2-3 to have sign language perceivable 
+a) to have auditory content presented in a sign language a user can understand 
+b) to have sign language presented with sufficient magnification 
+c) to have sign language presented with sufficient resolution 
+d) to have sign language presented with sufficient contrast 
+e) to have sign language presented with sufficient speed 
+5-2-4 to have 3-dimensional visual information presented using only two dimensions 
+5-2-5 to have presentation attributes specific to the auditory modality that match an individual's needs 
+a) to adjust the volume to a suitable level 
+b) to adjust the audio characteristics 
+c) to have auditory events be multi-frequency (i.e. involve high, mid and low frequencies) 
+d) to have multi-channel auditory information available in monaural form 
+e) to have audio information of sufficient clarity 
+f) to silence audio output 
+g) to have the characteristics of audio cues match the individual's needs 
+h) to have the characteristics of audio feedback match the individual's needs 
+i) to have audio feedback independent of tone differentiation 
+j) to have directional information presented via monaural audio 
+k) to turn off visual output 
+l) to turn off tactile output 
+5-2-6 to select/deselect different audio streams 
+5-2-7 to have acceptable presentation attributes specific to the tactile modality 
+a) to have suitable tactile vibration amplitude 
+b) to have appropriate speed of presentation of tactilely presented text 
+c) to have tactile symbols presented with appropriate clarity 
+d) to have different vibration patterns (rather than vibration frequency or strength) 
+5-2-8 to have visual or tactile feedback occur at the same location as the control 
+5-3 to distinguish among the different components of information that are being presented 
+5-3-1 to distinguish between different components without them interfering with one another 
+a) to distinguish among the individual visual components being presented 
+b) to distinguish among the individual auditory components being presented 
+c) to distinguish among the individual tactile components being presented 
+5-3-2 to prevent actions which would decrease information perceivability 
+5-3-3 to locate and identify all actionable components without activating them 
+a) to have separate means of selecting and activating controls 
+b) to have a separate means of identifying and activating controls 
+c) to perceive which interface component currently has focus 
+5-3-4 to be able to distinguish between actionable and non-actionable components in any modality 
+5-3-5 to have sufficient landmarks and cues to navigate to the necessary locations, functionalities or controls to carry out a task 
+a) to be able to find necessary interface components during use of the system 
+b) to have components located so that an individual can easily find them 
+c) to have components labelled so that their function is easily perceivable 
+d) to have clear signposting indicating directions to specified locations where functionalities can be found 
+5-3-6 to have distinct recognisable signals for different alerts or other messages that use signals 
+a) to have distinct recognisable feedback 
+b) to have distinct recognisable cues 
+5-4 to perceive information regardless of environmental or other conditions that might interfere 
+5-4-1 to perceive foreground information in the presence of background information 
+a) to perceive foreground visual information in the presence of background information 
+b) to have controls that visually contrast with their surroundings 
+c) to perceive foreground audio information in the presence of background information 
+d) to perceive foreground tactile information in the presence of background haptic information 
+5-4-2 to avoid distractions that prevent focusing on a task 
+a) to avoid visual distractions that prevent focusing on a task 
+b) to avoid reflective glare 
+c) to avoid glare from excessive brightness (of material or surrounding) 
+d) to avoid auditory distractions that prevent focusing on a task 
+e) to avoid audio effects that overload perception 
+f) to avoid tactile distractions that prevent focusing on a task 
+g) to avoid haptic effects that prevent executing a tactile task 
+h) to avoid olfactory distractions that prevent focusing on a task 
+5-4-3 to have accessibility features not interfere with perception of standard information 
+a) to have visual accessibility features (such as captions) not interfere with perception of standard information 
+b) to have audio accessibility features (such as audio description/audio vision) not interfere with perception of standard information 
+c) to prevent interference from other devices 
+5-4-4 to have only the content necessary for the current task presented 
+5-4-5 to have haptic input and output from devices not interfere with the perception of information 
+a) to limit heat from devices to avoid interfering with perception of tactile information 
+b) to limit vibration to avoid interfering with perception of tactile information 
+c) to limit heat (and other forms of radiation) from devices to avoid injury/discomfort to the user 
+5-5 to not have one's senses overloaded 
+a) to avoid visual overloads 
+b) to avoid auditory overloads 
+c) to avoid tactile overloads 
+5-6 to have attention drawn to critically important information in the appropriate modality, form, and language 
+a) to receive auditory alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
+b) to receive visual alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
+c) to receive tactile alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
+6 Understandability needs 
+6-1 to obtain information on the system and its components and functionalities 
+6-1-1 to get an overview and to orient themselves to the system and its functions/components (independent of actual use) 
+a) to get an introduction to the system before using it 
+b) to get an overview of the structure of the system 
+c) to get an overview of the system functions/components 
+d) to obtain information about any conventions that the system uses (e.g. for coding of information) 
+e) to get information on underlying concepts and ideas 
+6-1-2 to obtain and use unique names for every user interface component 
+a) to be able to obtain the unique name of individual user interface components 
+b) to be able to access individual user interface components via their unique name 
+6-1-3 to receive training that supports an individual's cognitive needs 
+a) to receive training that explains the concepts as well as the functioning of the system 
+b) to receive training that focuses on procedures for accomplishing individual tasks 
+c) to receive training that includes detailed examples of how individual tasks can be accomplished 
+6-1-4 to receive help that supports an individual's cognitive needs 
+a) to receive personalized support from another individual 
+b) to receive general automated support 
+c) to receive support that focuses on accomplishing a particular task 
+d) to receive support that answers general questions about a system 
+e) to receive support in finding information 
+f) to receive support in comparing information 
+g) to receive support in comparing relationships 
+h) to understand the position of oneself and/or user interface components 
+6-1-5 to receive recommendations that aid a user's understanding 
+a) to receive recommendations on improving the way in which a user is using the system 
+b) to receive recommendations about system features that have not been used (recently) 
+c) to be able to control the provision of recommendations 
+6-2 to understand information presented by the system 
+6-2-1 to have presented information as easy to understand as possible 
+a) to have textual material be worded as clearly and simply as possible 
+b) to have textual information presented using figures of speech also presented in a way that does not require understanding of those figures of speech 
+c) to have information be available regarding the meaning associated with colours and symbols 
+d) to have sign language understandable 
+e) to have information presented via indicators clearly understandable 
+6-2-2 to have individual linguistic requirements supported by the system 
+a) to have an accurate translation of systems produced for other languages or forms of using the languages 
+b) to have the vocabulary used to explain ICT use expressions that can be understood by users with different cultures and languages 
+c) to have icons and symbols that are recognizable across cultures 
+d) to have an accurate translation of content produced for other languages or forms of using the languages 
+6-2-3 to have individual cultural requirements supported by the system 
+a) to avoid being presented with offensive material 
+b) to avoid being expected to perform improper actions
+6-2-4 to have text alternatives be provided for all non-textual information 
+a) to have text alternatives for images 
+b) to have an explanation of the purpose and meaning of illustrations 
+c) to have captions for auditory information 
+d) to have audio descriptions for visual content 
+6-2-5 to have information provided pictorially as well as via text 
+6-2-6 to customize abstract symbols with alternative representations 
+a) to be able to replace the symbol used on various user interface elements (including icons) 
+6-2-7 to have language presented in a particular modality and format 
+a) to have visual language presented using written characters 
+b) to have visual language presented using symbols/pictograms 
+c) to have visual language presented using written Braille 
+d) to have visual language presented using sign language 
+e) to have oral language spoken 
+f) to have oral language sung 
+g) to have tactile language presented via Braille 
+h) to have tactile language presented via finger spelling 
+i) to have tactile language presented via pulses (e.g. Morse code) 
+6-3 to have information that supports an individual's cognitive needs 
+6-3-1 to have information presented in a manner that supports an individual's styles of reasoning 
+a) to have information grouped according to the user's thinking style 
+b) to have information ordered according to the user's thinking style 
+6-3-2 to avoid unnecessary high cognitive demands 
+a) to have information and capabilities presented at the appropriate level of abstraction 
+b) to have content presented in a simplified format without losing information 
+c) to have clear and easy activation mechanisms for any access features 
+d) to have mechanisms for excluding advertisements and other distractions from content 
+e) to avoid the need to deal with multiple different sources of information at one time 
+6-3-3 to have navigation that supports an individual's thinking style 
+a) to be able to easily search for and go directly to a particular location in content 
+b) to be able to easily follow a linear path through large amounts of content 
+c) to be able to easily follow a linear path when performing a task 
+d) to be able to recognize and utilize hierarchical structures for navigating through a system 
+e) to be able to utilize inter-linked structures of information without getting lost 
+f) to be able to follow a modeless path through content where a system can support it and the user prefers it (i.e. do tasks in any order) 
+6-3-4 to have assistance with remembering and recalling information 
+a) to have a logical and consistent structure to the information and the system to aid in recall and remembering; 
+b) to have background information available for recall so that it does not have to be remembered. 
+6-4 to have the steps for completing tasks optimized to match an individual's needs and clearly explained 
+a) to have steps for operations that are minimized and clearly described 
+b) to use small steps to complete a task 
+c) to have simple interfaces supporting control of the level of detail expressed 
+d) to have interfaces that limit the memorization required of the user to operate them successfully 
+e) to reduce or expand the content in the system 
+6-5 to have cues to support the individual in completing tasks 
+a) to have cues to support multi-step operations 
+b) to have cues to support focusing on important information 
+c) to have cues to support navigation 
+d) to have cues to support shortcuts 
+e) to have cues that provide an orientation to their current position within the system 
+6-6 to have feedback showing the results of actions 
+a) to have feedback on the completion of tasks 
+b) to have feedback on the occurrence of errors 
+6-7 to have sufficient time to interact with the system 
+6-7-1 to have sufficient time to understand displayed or presented information 
+a) to have sufficient time to consider presented information 
+b) to request more time to consider presented information 
+6-7-2 to have information necessary to plan actions available in advance 
+a) to have information about what actions are possible at the current time 
+b) to have information about what actions will complete the current task 
+c) to have information about any timing limitations or other constraints on actions 
+6-7-3 to plan a series of actions in advance 
+a) to avoid the system timing-out while the use is planning the next actions to take 
+b) to pause the system while considering what do 
+c) to restart the system once actions are planned 
+6-8 to access support when needed 
+a) to access the system Help section 
+b) to have access to an organization's help system 
+c) to have access to a personal support assistant 
+7 Controllability needs 
+7-1 to use a specific sensory modality (or a set of specific sensory modalities) for inputs to the system 
+7-1-1 to have alternate modalities of input to the system 
+a) to access all functionality without having to use touch 
+b) to have an alternative method to operate any tactile interactions 
+c) to have an alternative method to operate any auditory controlled functions 
+d) to have an alternative gesture free operation of all functionality 
+e) to have alternative modalities for text input 
+7-1-2 to use the tactile modality as a source of inputs to the system 
+a) to use the tactile modality alone as a source of inputs to the system 
+b) to use the tactile modality with other modalities as a source of inputs to the system 
+c) to operate all functionality using only tactile controls 
+7-1-3 to use sound as a source of inputs 
+a) to use the auditory modality alone as a source of inputs to the system 
+b) to use the auditory modality with other modalities as a source of inputs to the system 
+c) to operate all functionality using only auditory controls 
+7-1-4 to use visual recognition as a source of inputs 
+a) to use visual recognition alone as a source of inputs to the system 
+b) to use visual recognition with other modalities as a source of inputs to the system 
+c) to operate all functionality using only visual recognition 
+7-2 to control attributes of an input or interaction modality to match an individual's needs 
+7-2-1 to have acceptable input or interaction attributes specific to the tactile modality 
+a) to have a method to fully operate the system that requires minimal force 
+b) to have a method to fully operate the system that requires minimal continuous force 
+c) to have a method to fully operate the system without tight grasping 
+d) to have a method to fully operate the system without pinching 
+e) to have a method to fully operate the system without twisting 
+f) to perform the task with minimal movements 
+7-2-2 to have acceptable input or interaction attributes specific to the auditory modality 
+a) to have a method to adjust the length of voice input timeouts 
+b) to have a method of training the system to recognize the user's individual voice 
+c) to have a method to filter out background noises within the speech recognition environment 
+7-2-3 to have acceptable input or interaction attributes specific to the visual modality 
+1) to have a method to adjust the speed of interaction and timing when using visual recognition to indicate the selection action 
+2) to have a method to adjust the size of a visual presentation (e.g. font size) 
+7-2-4 to position system components and devices in suitable locations for their use 
+a) to position displays for optimal viewing 
+b) to position input devices to be reachable 
+7-3 to use a specific interaction method to provide inputs to the system 
+a) to access all software controlled functionality from a keyboard 
+b) to fully operate the system without requiring the use of a pointing device 
+c) to access all software controlled functionality using gestures 
+d) to have gestures consistent regardless of the technology used to interact with the system 
+e) to have a method to control the system using speech 
+7-4 to perform the task using specific types of action 
+7-4-1 to have a means of shifting the input focus from one interface component to another interface component 
+7-4-2 to perform the task using various parts of the body 
+a) to have a method to fully operate the system requiring minimal reach 
+b) to operate the system without use of hands 
+c) to operate the system with only a left or only a right hand 
+d) to have a method to fully operate the system that does not require direct body contact 
+e) to have alternatives to biometric means of identification 
+7-4-3 to have a method to fully operate the system that does not require simultaneous actions 
+a) to separately identify, select and activate functions/controls 
+7-4-4 to interact with the system at one's own pace 
+a) to have sufficient time to complete actions 
+b) to be aware that there is sufficient time to complete actions 
+c) to control the presentation of dynamically presented information 
+d) to pause dynamically presented (visual, auditory or tactile) information 
+e) to control the speed of dynamically presented (visual, auditory or tactile) information 
+f) to replay dynamically presented (visual, auditory or tactile) information 
+g) to adjust the speed and acceleration of input devices 
+h) to control the rate of audio alternatives 
+i) to take a break from interacting with the system and to be able to return to interacting at a later point in time with a minimum of additional work 
+7-4-5 to have a method to fully operate the system that does not require direct body contact 
+a) to have the option of operating a computer programme by the use of voice recognition 
+b) to have the option of operating a system by gesture control 
+c) to have the option of controlling a system by iris tracking 
+d) To have a system respond remotely using sensor beams 
+7-5 to perform supporting and maintenance tasks related to the use of the system that other users are expected to undertake 
+a) to replace consumable items used by the system 
+b) to install, set-up, and connect the system on their own 
+c) to switch off, disconnect, and store the system on their own 
+d) to reset the system to a known state 
+7-6 to control the environment (to the extent possible) prevent interference with performing the task 
+a) to control environmental lighting 
+b) to control environmental temperature 
+c) to control environmental sounds 
+7-7 to access the controls that allow them to turn on and adjust the built-in accessibility features 
+a) to have a system load accessibility software in advance of any security protection (e.g. passwords) 
+b) to have a system have the user confirm any changes to the settings of accessibility features 
+c) to import accessibility settings from an external system or device 
+7-8 to have a suitable level of autonomy 
+8 Usability needs 
+8-1 to be provided a means to successfully accomplish tasks 
+a) to be able to accomplish a task accurately 
+b) to be able to completely accomplish a task 
+8-2 to avoid making mistakes in completing tasks 
+a) a method to fully operate the system that does not require much accuracy of movement 
+8-3 to complete tasks in an efficient manner relative to one's own abilities 
+a) to complete a task within one's budgeted resources 
+8-4 to perform tasks with a minimum of physical exertion 
+a) to perform tasks with a minimum of physical force 
+b) to perform tasks without having to excessively reach 
+8-5 to perform tasks with a minimum of cognitive exertion 
+a) to have similar patterns of activation for similar actions 
+b) to have assistance available for cognitively complex tasks 
+c) to have available a simplified version of the task 
+8-6 to operate the system without becoming fatigued 
+a) to have a method to fully operate the system that does not require much stamina 
+b) to operate the product system without physical fatigue 
+c) to operate the product system without cognitive fatigue 
+8-7 to complete tasks within the available time 
+a) to avoid having to rush to complete tasks 
+b) to be able to work on tasks at one's own speed 
+8-8 to be satisfied with the outcome of interacting with the system 
+a) to believe that the system is worth using 
+b) to trust the system and its outputs 
+8-9 to have comparable satisfaction that the system is worth using to that of other users 
+a) to have similar emotions regarding a system to other users 
+b) to have similar beliefs about a system to other users 
+c) to have similar physical experiences of using a system to similar users 
+9 Error tolerance needs 
+9-1 to have confidence that using the system will be free from negative consequences or unacceptable risks 
+a) to be confident that using a system will not endanger one's self 
+b) to be confident that using a system will not harm other people 
+c) to be confident that using a system will not harm the environment 
+d) to be confident that using a system will not unintentionally trigger inappropriate reactions 
+9-2 to explore a system without unintentionally activating components or their functionality 
+a) to have systems and controls designed so they can be explored without activation, either tactilely or through keyboard navigation 
+b) to have systems (and their components) that can be positioned so that they are stable during use so that they are not unintentionally activated or deactivated and that they remain reachable and usable in their position 
+c) to successfully operate a system with limited body control 
+d) to avoid damaging the system when additional force is used to perform some action 
+e) to have controls that are not activated by a slight touch or when they receive keyboard focus 
+f) to avoid inappropriate changes in focus 
+9-3 to accomplish tasks in spite of the occurrence of errors 
+a) to have the system provide automatic error correction 
+b) to be able to disable and enable automatic error correction 
+c) to be able to proceed with a task without correcting minor errors 
+9-4 to detect when errors have been made 
+a) to have notification when the system detects errors made by the user 
+9-5 to recover from errors made from interacting with the system (whenever possible) 
+a) to have unambiguous guidance on what to do in the event of a reported error 
+b) to receive an explanation of the error, and where possible, why it was an error 
+9-6 to reset a system to an earlier or original condition as a means of responding to errors 
+a) to have a means to go back and undo the last thing(s) accomplished 
+b) to reset (to initial condition) 
+9-7 to avoid errors by having negative consequences be obvious, easy to avoid, and difficult to trigger 
+a) to have the system provide immediate detection and warning of possible input errors before processing inputs that could have negative consequences 
+b) to be able to disable and enable immediate detection of possible input errors 
+c) to have the system ask for confirmation before doing potentially harmful processing 
+d) to be able to disable and enable system confirmation capabilities 
+10 Equitable use needs 
+10-1 to use a system in a manner that is as similar as possible to other users 
+a) to have access to using the features that other users have access to 
+b) to have private listening capability, when using audio alternatives to visual information in public places 
+c) to have protection of the privacy of information, even if they can not to do the "expected" things to protect it 
+d) to have security of information, even if they cannot do the "expected" things to protect it 
+10-2 to use a system in a manner that is equivalent to that of other users, even if the manner of use is different 
+10-3 to have available alternate ways of interacting with a system that match a user's needs 
+a) to have alternate modes of operation that are effective given the time constraints of the task 
+b) to have hardcopy documents to be usable with one hand or mouth-stick 
+c) to have all alternate ways of interacting available, regardless of whether they were provided to meet specific accessibility needs or not 
+11 Compatibility with other systems needs 
+11-1 to use their own assistive products or assistive technology to interact with all the functionalities of the system 
+a) to have standard types of hardware and software connections/interfaces on systems to interact with assistive technology 
+b) to have full and efficient functional control of a product using assistive technology, including passthrough of user feedback and notifications such as error messages 
+c) to have an assistive technology available that will work with new technologies, at the time of release of the new technology 
+d) to discover information about all user-interface components using assistive technology 
+e) to monitor output operations using assistive technology 
+11-2 to have the interaction between the system and assistive technology be without interference 
+a) to have the system or product not interfere with assistive technology 
+b) to use multiple systems that do not interfere with one another 
+c) to use multiple assistive technologies that do not interfere with one another 
+11-3 to have specific accessibility functions available at all times, without disruption 
+a) to be able to easily find specific accessibility functions 
+b) to be able to designate specific accessibility functions to be available directly 
+c) to be able to temporarily hide specific accessibility functions
