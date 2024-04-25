@@ -7,5 +7,6 @@ The text from Annex B (informative) is available under the following condition t
 
 Corrections made to the text in Annex B
  - Fixing the numbering of 4-8-a, which was labeled 4-8-b in Annex B
+ - Adding missing provisions 5-3-2-a, 5-3-2-b, and 5-3-2-c, which are in the text but were not in Annex B
  - Fixing the numbering of 7-2-3-a, which was labeled 7-2-3-1 in Annex B
  - Fixing the numbering of 7-2-3-b, which was labeled 7-2-3-2 in Annex B

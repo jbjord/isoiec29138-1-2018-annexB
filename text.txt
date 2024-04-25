@@ -213,6 +213,9 @@ a) to distinguish among the individual visual components being presented
 b) to distinguish among the individual auditory components being presented 
 c) to distinguish among the individual tactile components being presented 
 5-3-2 to prevent actions which would decrease information perceivability 
+a) to be protected from changing the foreground colour to one that cannot be distinguished from the background colour
+b) to be able to prevent browser pop-ups
+c) to be able to eliminate unnecessary interruptions
 5-3-3 to locate and identify all actionable components without activating them 
 a) to have separate means of selecting and activating controls 
 b) to have a separate means of identifying and activating controls 
