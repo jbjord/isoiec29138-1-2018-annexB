@@ -257,6 +257,7 @@ c) to limit heat (and other forms of radiation) from devices to avoid injury/dis
 a) to avoid visual overloads 
 b) to avoid auditory overloads 
 c) to avoid tactile overloads 
+d) to avoid cognitive overloads 
 5-6 to have attention drawn to critically important information in the appropriate modality, form, and language 
 a) to receive auditory alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
 b) to receive visual alerts regarding the existence of critically important information (regardless of the modality of the information itself) 

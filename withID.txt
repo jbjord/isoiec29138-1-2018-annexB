@@ -257,6 +257,7 @@
 5-5-a	to avoid visual overloads 
 5-5-b	to avoid auditory overloads 
 5-5-c	to avoid tactile overloads 
+5-5-d	to avoid cognitive overloads 
 5-6	to have attention drawn to critically important information in the appropriate modality, form, and language 
 5-6-a	to receive auditory alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
 5-6-b	to receive visual alerts regarding the existence of critically important information (regardless of the modality of the information itself) 
