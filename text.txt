@@ -249,6 +249,8 @@ a) to have visual accessibility features (such as captions) not interfere with p
 b) to have audio accessibility features (such as audio description/audio vision) not interfere with perception of standard information 
 c) to prevent interference from other devices 
 5-4-4 to have only the content necessary for the current task presented 
+a) to remove or prevent content not related to a particular task 
+b) to prevent interruption of a task by other tasks 
 5-4-5 to have haptic input and output from devices not interfere with the perception of information 
 a) to limit heat from devices to avoid interfering with perception of tactile information 
 b) to limit vibration to avoid interfering with perception of tactile information 

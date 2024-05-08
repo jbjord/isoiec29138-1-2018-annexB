@@ -13,4 +13,6 @@ Corrections made to the text in Annex B
    - 5-3-2-a
    - 5-3-2-b
    - 5-3-2-c
+   - 5-4-4-a
+   - 5-4-4-b
    - 5-5-d

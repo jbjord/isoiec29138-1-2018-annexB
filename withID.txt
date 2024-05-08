@@ -249,6 +249,8 @@
 5-4-3-b	to have audio accessibility features (such as audio description/audio vision) not interfere with perception of standard information 
 5-4-3-c	to prevent interference from other devices 
 5-4-4	to have only the content necessary for the current task presented 
+5-4-4-a	to remove or prevent content not related to a particular task 
+5-4-4-b	to prevent interruption of a task by other tasks 
 5-4-5	to have haptic input and output from devices not interfere with the perception of information 
 5-4-5-a	to limit heat from devices to avoid interfering with perception of tactile information 
 5-4-5-b	to limit vibration to avoid interfering with perception of tactile information 
