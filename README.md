@@ -16,3 +16,8 @@ Corrections made to the text in Annex B
    - 5-4-4-a
    - 5-4-4-b
    - 5-5-d
+
+---
+## Acknowledgment
+
+This extract was developed under a grant from the [National Institute on Disability, Independent Living, and Rehabilitation Research](https://acl.gov/about-acl/about-national-institute-disability-independent-living-and-rehabilitation-research) (NIDILRR grant #90REGE0024). NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS). The contents are those of the authors and do not necessarily represent the official views of, nor an endorsement by NIDILRR, ACL/HHS, or the U.S. Government.
