@@ -5,11 +5,14 @@ Text from Annex B from the standard [ISO/IEC 29138-1:2018 User accessibility nee
 The text from Annex B (informative) is available under the following condition that is explicitly given in the Annex.
 > Users may freely copy this annex and use it independently of the standard as long as they acknowledge that its source is "ISO/IEC 29138-1:2018, Annex B".
 
-Corrections made to the text in Annex B
+ - [text.txt](./text.txt) is the text directly from Annex B (with corrections as noted below)
+ - [withID.txt](./withID.txt) is a *tab-delimited* extract of the text and IDs from Annex B (with corrections as noted below) 
+
+## Corrections made to the text in Annex B
  - Fixing the numbering of 4-8-a, which was labeled 4-8-b in Annex B
  - Fixing the numbering of 7-2-3-a, which was labeled 7-2-3-1 in Annex B
  - Fixing the numbering of 7-2-3-b, which was labeled 7-2-3-2 in Annex B
- - Adding the following missing provisions, which are in the text but are not in Annex B: 
+ - Adding the following missing provisions, which are in the text of the ISO/IEC standard, but are not in Annex B: 
    - 5-3-2-a
    - 5-3-2-b
    - 5-3-2-c
